@@ -1,2 +1,17 @@
-# cpp-number-guessing-game
-A simple number guessing game written in C++. Uses OOP principles and the &lt;random> library to generate numbers. Created to practice classes, user input/output, and basic program flow. Beginner-friendly C++ project suitable for learning and portfolio demonstration.
+# C++ Number Guessing Game
+
+This is a simple number guessing game written in C++. The program generates a random number between 1 and 10, and the user tries to guess it.
+
+## Features
+- Random number generation
+- Object-oriented structure
+- Console input/output
+- Beginner-friendly
+
+## Technologies
+- C++
+- OOP
+- <random> library
+
+## Purpose
+Created for practicing C++ and OOP concepts.
