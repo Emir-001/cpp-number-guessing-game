@@ -11,7 +11,8 @@ This is a simple number guessing game written in C++. The program generates a ra
 ## Technologies
 - C++
 - OOP
-- <random> library
+- '<random>' library
+
 
 ## Purpose
 Created for practicing C++ and OOP concepts.
