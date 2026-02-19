@@ -15,3 +15,10 @@ This is a simple number guessing game written in C++. The program generates a ra
 
 ## Purpose
 Created for practicing C++ and OOP concepts.
+
+## How to Run
+Compile:
+g++ random.cpp -o game
+
+Run:
+./game
